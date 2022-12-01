@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jeffreyjosephh22/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jeffreyjosephh22/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jeffreyjosephh22/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jeffreyjosephh22/azure-network-protocols-)
   
 <h2>🤳Connect with me:</h2>
 
